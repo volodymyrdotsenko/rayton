@@ -41,13 +41,13 @@
 @font-face{font-family:'Montserrat';font-style:normal;font-weight:800;font-display:swap;src:url(https://fonts.gstatic.com/s/montserrat/v15/JTURjIg1_i6t8kCHKm45_c5H3gnD_vx3rCs.woff2) format('woff2');unicode-range:U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;}</style>
 
 
-  <link rel=" shortcut icon" href="https://rayton.com.ua/assets/img/favicon.ico" type="image/x-icon" />
-  <link rel="icon" href="https://rayton.com.ua/assets/img/favicon.ico" type="image/x-icon" />
+  <link rel=" shortcut icon" href="./assets/img/favicon.ico" type="image/x-icon" />
+  <link rel="icon" href="./assets/img/favicon.ico" type="image/x-icon" />
 
   <!-- custom styles (optional) -->
   
-  <link href="https://rayton.com.ua/assets/css/plugins.css" rel=" stylesheet" />
-  <link href="https://rayton.com.ua/assets/css/one_stylesheet.css" rel=" stylesheet" />
+  <link href="./assets/css/plugins.css" rel=" stylesheet" />
+  <link href="./assets/css/one_stylesheet.css" rel=" stylesheet" />
   <meta name="google-site-verification" content="rSSDWkn-LGEtW4QkSe2Z7aZXgtBhL9AtUIOupF6iSvg" />
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
@@ -76,7 +76,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <div class="main-logo">
                         <a href="https://rayton.com.ua/">
                            
-                            <img class="light-logo" src="https://rayton.com.ua/assets/img/logo.png" alt="" />
+                            <img class="light-logo" src="./assets/img/logo.png" alt="" />
                         </a>
                     </div>
                 </div>
@@ -84,13 +84,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                     <ul class="extend-container">
                         <!--<li><a href="https://rayton.com.ua/one-page-3.html#">Дилерам</a></li>-->
                         <li><a href="https://rayton.com.ua/about us.html"><strong>О нас</strong></a></li>
-                        <li><a href="https://rayton.com.ua/rayton_home/"><strong><img src="https://rayton.com.ua/assets/img/logo.png"
+                        <li><a href="https://rayton.com.ua/rayton_home/"><strong><img src="./assets/img/logo.png"
                                                     alt="" style="width: 21%">  Home |  </strong><p style="color: #444446;font-size: small;display:inline-block;"> для домовладений</p></a></li>
-                                            <li><a href="https://rayton.com.ua/rayton_business/"><strong><img src="https://rayton.com.ua/assets/img/logo.png"
+                                            <li><a href="https://rayton.com.ua/rayton_business/"><strong><img src="./assets/img/logo.png"
                                                     alt="" style="width: 21%">  Business |  </strong><p style="color: #444446;font-size: small;display:inline-block;"> для и предприятий</p></a></li>
-                                                    <li><a href="https://rayton.com.ua/rayton_partner/"><strong><img src="https://rayton.com.ua/assets/img/logo.png"
+                                                    <li><a href="https://rayton.com.ua/rayton_partner/"><strong><img src="./assets/img/logo.png"
                                                     alt="" style="width: 21%">  Partner |  </strong><p style="color: #444446;font-size: small;display:inline-block;"> для диллеров</p></a></li>
-                                                    <li><a href="https://rayton.com.ua/portfolio.html"><strong><img src="https://rayton.com.ua/assets/img/logo.png"
+                                                    <li><a href="https://rayton.com.ua/portfolio.html"><strong><img src="./assets/img/logo.png"
                                                     alt="" style="width: 21%">  Portfolio |  </strong><p style="color: #444446;font-size: small;display:inline-block;"> топ наших работ</p></a></li>
                                             <li><a href="https://rayton.com.ua/blog.html"><strong>Блог |  </strong><p style="color: #444446;font-size: small;display:inline-block;"> новости из мира солнечной энергии</p></a></li>
                                             <li><a href="https://rayton.com.ua/q&a.html"><strong>Вопросы и ответы</strong></a></li>
@@ -107,7 +107,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             <div class="header-container">
                 <div class="logo main-logo">
                     <a href="https://rayton.com.ua/">
-                        <img class="light-logo" src="https://rayton.com.ua/assets/img/logo.png" alt="" />
+                        <img class="light-logo" src="./assets/img/logo.png" alt="" />
                     </a>
                 </div>
 
@@ -144,10 +144,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         <!-- <div class="box-seat section-margin">
                         <div class="container-fluid">
                             <div class="inner-img" data-dsn-grid="move-up">
-                                <img src="https://rayton.com.ua/assets/img/Home.png" alt="">
+                                <img src="./assets/img/Home.png" alt="">
                             </div>
                             <div class="pro-text" data-dsn-grid="move-section">
-                                <img src="https://rayton.com.ua/assets/img/ryton_logo_blk.png" alt="" ><h3 data-dsn-animate="text"> Home</h3>
+                                <img src="./assets/img/ryton_logo_blk.png" alt="" ><h3 data-dsn-animate="text"> Home</h3>
                                 <p data-dsn-animate="text">Подберем и установим подходящую вашим потребностям солнечную электростанцию. Также дадим дополнительную гарантию от Rayton и будем следить за тем, чтобы все работало как надо</p>
                             </div>
                         </div>
@@ -162,7 +162,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                                 <h2 data-dsn-animate="text">Мы не будем нагружать вас сложными терминами,</h2>
                                 <p data-dsn-animate="up"> очередной раз рассказывать про «зеленый тариф» и продавать выгодное нам оборудование. У нас более простые цели — мы хотим сделать солнечную энергетику настолько доступной, как это стало с подключением интернета.<br>Вы оставили заявку, наши специалисты связались с вами для подбора оптимального решения, мы привезли и установили оборудование, проверили его работу — и дело сделано.</p>
                                 <ul class="mt-20" data-dsn-animate="up">
-                                    <li>              <img src="https://rayton.com.ua/assets/img/rayt_lines_1.png" style="position: absolute; max-width: 50%"></li>
+                                    <li>              <img src="./assets/img/rayt_lines_1.png" style="position: absolute; max-width: 50%"></li>
                                     
                                 </ul>
 
@@ -318,7 +318,7 @@ if (isset($_POST['g-recaptcha-response'])) {
                             
                         </div>
                         <!-- <div class="footer-logo">
-                                        <img src="https://rayton.com.ua/assets/img/logo.png" style="max-width: 160px;" alt="">
+                                        <img src="./assets/img/logo.png" style="max-width: 160px;" alt="">
                                          <a href="https://www.facebook.com/Rayton-110232517357237/"><i class="fab fa-facebook-f" style="
     font-size: xx-large;
     margin: 20px;
@@ -342,7 +342,7 @@ if (isset($_POST['g-recaptcha-response'])) {
                                         
                                          <div class="footer-social">
                                             <a href="https://rayton.com.ua/">
-                                                <img src="https://rayton.com.ua/assets/img/logo.png" style="max-width: 160px;" alt="">
+                                                <img src="./assets/img/logo.png" style="max-width: 160px;" alt="">
                                             </a>
 
                                         
@@ -380,8 +380,8 @@ if (isset($_POST['g-recaptcha-response'])) {
 
 
     <!-- Optional JavaScript -->
-    <script src="https://rayton.com.ua/assets/js/jquery-3.6.0.min.js"></script>
-    <script src="https://rayton.com.ua/assets/js/plugins.js"></script>
-    <script src="https://rayton.com.ua/assets/js/dsn-grid.js"></script>
-    <script src="https://rayton.com.ua/assets/js/custom.js"></script>
+    <script src="./assets/js/jquery-3.6.0.min.js"></script>
+    <script src="./assets/js/plugins.js"></script>
+    <script src="./assets/js/dsn-grid.js"></script>
+    <script src="./assets/js/custom.js"></script>
 </body>
