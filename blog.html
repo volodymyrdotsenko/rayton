@@ -78,7 +78,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         </a>
                     </div>
                 </div>
-                 <nav class=" accent-menu main-navigation">
+                 <nav class=" accent-menu main-navigation"  id="navList">
                     <ul class="extend-container">
                         <!--<li><a href="one-page-3.html#">Дилерам</a></li>-->
                         <li><a href="about us.html"><strong>О нас</strong></a></li>
@@ -118,7 +118,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
                         <span class="menu-icon__line menu-icon__line-right"></span>
                     </div>
 
-                    <div class="text-menu" style="color: #fff">
+                    <div class="text-menu" id="burgerMenu" style="color: #fff">
                         <div class="text-button" style="color: #212121">Меню</div>
                         <div class="text-open" style="color: #212121">Открыть меню</div>
                         <div class="text-close" style="color: #5a5b5b">Закрыть</div>
@@ -136,6 +136,27 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
             </div>
         </div>
     </div>
+    <script>
+        function toggleMenu() {
+                      const burgerMenu = document.getElementById('burgerMenu');
+                      const navList = document.getElementById('navList');
+
+                      if (window.innerWidth >= 768) {
+                        navList.style.display = 'flex';
+                        burgerMenu.style.display = 'none';
+                      } else {
+                        navList.style.display = 'none';
+                        burgerMenu.style.display = 'block';
+                      }
+                    }
+
+                    // Initial call to set the initial state based on screen size
+                    toggleMenu();
+
+                    // Listen for window resize events
+                    window.addEventListener('resize', toggleMenu);
+
+    </script>
     <!-- End Nav Bar -->
   <main class="main-root">
     <div id="dsn-scrollbar">
